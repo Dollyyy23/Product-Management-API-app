@@ -93,6 +93,10 @@ public class Product {
 3. Perform CRUD operations and check responses.
 4. Inspect the database to verify stored data.
 
+## Deployment and testing Video
+[demo-video](https://drive.google.com/file/d/1iY7uqfw4S_CPKni8mvBMKz_caB8jcoim/view?usp=sharing)
+
+
 
 ## Challenges Faced & Solutions
 ### Challenge 1: Handling Concurrent Updates
